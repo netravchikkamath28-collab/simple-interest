@@ -6,4 +6,5 @@ def simple_interest(principal, interest, time):
         p=int(sys.argv[1])
         i= float(sys.argv[2])
         t=int(sys.argv[3])
+        
         print("simple interest is:",simple_interest(p,i,t))
